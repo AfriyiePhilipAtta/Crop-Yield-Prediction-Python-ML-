@@ -104,8 +104,8 @@ This project is licensed under the **MIT License**.
 ## ▶️ How to Run the Project  
 ### **Clone the repository**
 ```bash
-git clone https://github.com/your-username/crop-yield-prediction.git
-cd crop-yield-prediction
+git clone https://github.com/AfriyiePhilipAtta/Crop_Yield_Prediction_Python_ML.git
+cd crop_yield_prediction
 ```
 
 ### **Install required libraries**
